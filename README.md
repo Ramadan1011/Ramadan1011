@@ -1,3 +1,5 @@
+<div align="center">
+
 # I'm Ramazon
 
 A .NET developer from Uzbekistan
@@ -34,3 +36,4 @@ A .NET developer from Uzbekistan
 ### 🚀 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadan1011&layout=compact&theme=radical)
+</div>
