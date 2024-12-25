@@ -1,19 +1,27 @@
 <div align="center">
 
-# I'm Ramazon
+<div class="d-flex gap-2">
+  <div>
+    # I'm Ramazon
 
-A .NET developer from Uzbekistan
+  A .NET developer from Uzbekistan
+  
+  📚 I'm currently studying at PDP Academy in Tashkent  
+  💻 I'm currently learning .NET, C#, WPF, ASP.NET Core
+  
+  ---
+  
+  ### 📫 Contact Me
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shukhratovich75@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramazon-choriyev-2485492b4/)
+  
+  ---
+  </div>
+  <div>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&lines=.NET+Software+Engineer;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-📚 I'm currently studying at PDP Academy in Tashkent  
-💻 I'm currently learning .NET, C#, WPF, ASP.NET Core
-
----
-
-### 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shukhratovich75@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramazon-choriyev-2485492b4/)
-
----
+  </div>
+</div>
 
 ### 🛠️ Languages-Frameworks-Tools 🛠️
 
