@@ -7,7 +7,7 @@
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- Text Section -->
     <div style="flex: 1; text-align: left; min-width: 300px;">
-      <h2>I'm Ramazon</h2>
+      <p style="font-size: 1.5em">I'm Ramazon</p>
       <p>🎓 A .NET developer from Uzbekistan</p>
       <p>📚 Currently studying at PDP Academy in Tashkent</p>
       <p>💻 Currently learning .NET, C#, WPF, ASP.NET Core, Web API</p>
