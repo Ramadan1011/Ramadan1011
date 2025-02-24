@@ -20,27 +20,20 @@
 
   ---
 
-  <!-- Languages, Frameworks, and Tools -->
-  ### 🛠️ Languages-Frameworks-Tools 🛠️
-  <p align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </p>
+   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align=center>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,github,postgres,visualstudio,windows,mysql" />
+  </div>
+  <h2 align="center">⚡️ Stats ⚡️</h2>
+  <br/>
+<div align=center>
+   <img align=center width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=ramadan1011&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="ramadan1011" />
+</div>
+    <br/>
+<div align=center>
+    <img width=390 align=center src="https://github-readme-stats.vercel.app/api?username=ramadan1011&count_private=true&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="ramadan1011" />
+    <img width=390 align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadan1011&count_private=true&theme=react&border_radius=10" />
+  </div>
 
-  ---
-
-  <!-- GitHub Stats -->
-  ### 📊 GitHub Stats
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadan1011&show_icons=true&theme=radical)
-
-  ---
-
-  <!-- Most Used Languages -->
-  ### 🚀 Most Used Languages
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadan1011&layout=compact&theme=radical)
 </div>
