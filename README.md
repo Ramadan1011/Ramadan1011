@@ -33,7 +33,6 @@
     <br/>
 <div align=center>
     <img width=390 align=center src="https://github-readme-stats.vercel.app/api?username=ramadan1011&count_private=true&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="ramadan1011" />
-    <img width=390 align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadan1011&count_private=true&theme=react&border_radius=10" />
-  </div>
+</div>
 
 </div>
